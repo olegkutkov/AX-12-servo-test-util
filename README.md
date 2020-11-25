@@ -8,8 +8,8 @@
 **Usage**
 
 Mandatory params:
-  -p, --port - Serial port device, example: -p /dev/ttyUSB0
-  -b, --baud - Serial port baud rate, example: -b 115200
+- -p, --port - Serial port device, example: -p /dev/ttyUSB0
+- -b, --baud - Serial port baud rate, example: -b 115200
 
 Servos lookup: 
   ./servo -b 1000000 -p /dev/ttyUSB0 -s
