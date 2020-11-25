@@ -1,11 +1,11 @@
 # AX-12-servo-test-util
 
-**Get and compile**
-  git clone https://github.com/olegkutkov/AX-12-servo-test-util.git
-  cd AX-12-servo-test-util
-  make
+**Get and compile**<br/>
+  git clone https://github.com/olegkutkov/AX-12-servo-test-util.git<br/>
+  cd AX-12-servo-test-util<br/>
+  make<br/>
 
-**Usage**
+**Usage**<br/>
 
 Mandatory params:
 - -p, --port - Serial port device, example: -p /dev/ttyUSB0
