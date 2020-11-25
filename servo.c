@@ -213,9 +213,7 @@ int main(int argc, char *argv[])
 				ucmd = USER_CMD_SET_SPEED;
 				arg = (uint16_t) atoi(optarg);
 				break;
-
-			case 'h':
-			
+	
 		}
 	}
 
